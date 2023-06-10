@@ -1,0 +1,8 @@
+Website = "https://github.com/princessmortix/defractureiser"
+
+[Details]
+  Icon = "icon.png"
+  Name = "Defractureiser"
+  ID = "link.princessmortix.defracturaiser"
+  Version = "1.0.0"
+  Build = 2
